@@ -13,8 +13,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-scripts": "5.0.1",
-    "@supabase/supabase-js": "^2.49.4",
-    "supabase": "2.98.2"
+    "@supabase/supabase-js": "2.49.4",
   },
   "devDependencies": {
     "@types/react": "18.2.38",
